@@ -37,7 +37,7 @@ body {
     float: none;
 }
 
-strong {
+strong {z
     color: #af1111;
 }
 
@@ -73,20 +73,20 @@ h1 {
     font-size: 17pt;
     color: #3333FF; /* Bluish, matches link color */
     font-weight: 500;
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: Montserrat;
 }
 h2 {
     color: #004824;
     font-size: 14pt;
     font-weight: 600;
     padding-top: 0.5ex;
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: Montserrat;
 }
 h3 {
     color: #450060;
     font-size: 12pt;
     font-weight: 600;
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: Montserrat;
 }
 h4{
     margin-top: 6px;

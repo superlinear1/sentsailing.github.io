@@ -37,7 +37,7 @@ body {
     float: none;
 }
 
-strong {z
+strong {
     color: #af1111;
 }
 
@@ -69,9 +69,9 @@ img {
 h1 {
     display: block;
     font-weight: normal;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     font-size: 18pt;
-    color: #3333FF; /* Bluish, matches link color */
+    color: #8B008B; /* Bluish, matches link color */
     font-weight: 600;
     font-family: Montserrat, Arial, sans-serif;
 }
@@ -119,6 +119,12 @@ h5, h6 {
     margin-left: 0px;
 }
 
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, main {
+    display: block;
+}
+
+<!-- 
 #header {
     background: none repeat scroll 0 0;
     clear: both;
@@ -126,7 +132,8 @@ h5, h6 {
     font-size: 5em;
     line-height: 1.5em;
     overflow: auto;
-    vertical-align: middle;
+    vertical-align: center;
+    text-align: center;
     white-space: nowrap;
     overflow: hidden;
     background-color: #FAEBD7; /* red background */
@@ -140,6 +147,7 @@ h5, h6 {
     margin-top: 5px;
     padding-left: 0.5rem;
 }
+--> 
 
 #sitetitle {
     text-align: left;

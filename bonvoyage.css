@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
+html, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -31,7 +31,19 @@ footer, header, hgroup, menu, nav, section {
 
 body {
     line-height: 1;
-    font-family: Source Serif Pro;
+    font-family: Source Serif Pro, serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    max-width: 1000px; /* Don't overwhelm large displays */
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+    float: none;
+}
+
+strong {
+    color: #b8008b;
+    text-decoration: underline;
 }
 
 ol, ul {

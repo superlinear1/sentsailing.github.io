@@ -38,7 +38,7 @@ body {
     background-color: #FFFFFF;
     color: #000000;
     max-width: 1000px; /* Don't overwhelm large displays */
-    margin: 0 auto;
+    margin: auto;
     padding: 0;
     display: block;
     float: none;

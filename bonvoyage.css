@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 p {
-    margin: auto;
+    margin-bottom: 25px;
     padding: 0;
     border: 0;
     font-size: 100%;

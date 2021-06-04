@@ -34,7 +34,7 @@ p {
 }
 body {
     line-height: 1;
-    font-family: "Open Sans";
+    font-family: Open Sans;
     background-color: #FFFFFF;
     color: #000000;
     max-width: 1000px; /* Don't overwhelm large displays */
@@ -52,7 +52,7 @@ h1 {
     font-size: 18pt;
     color: #000000; /* Bluish, matches link color */
     font-weight: 600;
-    font-family: "Open Sans";
+    font-family: Open Sans;
 }
 
 strong {

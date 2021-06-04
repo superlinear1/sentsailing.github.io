@@ -45,7 +45,7 @@ article, aside, details, figcaption, figure, hgroup, menu, nav, section {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  color: #663366;
+  color: #000000;
 }
 
 /* Right-aligned section inside the top navigation */

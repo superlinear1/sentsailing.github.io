@@ -26,6 +26,7 @@ article, aside, details, figcaption, figure, hgroup, menu, nav, section {
 /* Add a black background color to the top navigation */
 .topnav {
     overflow: hidden;
+    background-color: #ffffff;
 }
 
 /* Style the links inside the navigation bar */

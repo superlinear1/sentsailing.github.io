@@ -97,7 +97,7 @@ p {
     vertical-align: middle;
 }
 body {
-    line-height: 1;
+    line-height: 1.25;
     font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
     background-color: #FFFFFF;
     color: #000000;

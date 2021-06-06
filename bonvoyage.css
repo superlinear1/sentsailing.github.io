@@ -26,7 +26,7 @@ article, aside, details, figcaption, figure, hgroup, menu, nav, section {
 /* Add a black background color to the top navigation */
 .topnav {
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #1261a0;
 }
 
 /* Style the links inside the navigation bar */
@@ -36,16 +36,17 @@ article, aside, details, figcaption, figure, hgroup, menu, nav, section {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 18px;
+  color: #dfdfdf;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  color: #0645ad;
+  color: #ffffff;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  color: #000000;
+  color: #ffffff;
 }
 
 /* Right-aligned section inside the top navigation */
@@ -121,9 +122,8 @@ h1 {
 }
 
 strong {
-    color: #b8008b;
+    color: #0645ad;
     text-decoration: underline;
-    font-weight: bold;
 }
 
 ol, ul {

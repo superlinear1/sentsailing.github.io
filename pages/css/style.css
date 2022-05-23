@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<title>PornDemon</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body onHashChange="loadPost();">
+<div class="header">
+<a href="index.html"><h1>porndemon</h1></a>
+<input id="q" placeholder="search things to... y'know" onInput="search()">
+</div>
+<h2 id="pageTitle"></h2>
+<div id="postCont" class="container">
+please wait...
+</div>
+<script src="js/post.js"></script>
+</body>
+</html>
